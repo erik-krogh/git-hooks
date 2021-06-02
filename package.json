@@ -54,7 +54,7 @@
     "semantic-release": "^17.2.3"
   },
   "dependencies": {
-    "execa": "^4.0.0",
+    "execa": "^5.1.0",
     "husky": "^4.2.3",
     "lodash": "^4.17.21",
     "semver": "^7.1.3",
